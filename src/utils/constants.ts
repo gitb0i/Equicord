@@ -777,6 +777,14 @@ export const EquicordDevs = Object.freeze({
         name: "Balaclava",
         id: 854886148455399436n
     },
+    xcreepa: {
+        name: "xcreepa",
+        id: 173124442870775808n
+    },
+    tt: {
+        name: "_.tt",
+        id: 497966466617049089n
+    },
     dat_insanity: {
         name: "dat_insanity",
         id: 0n
